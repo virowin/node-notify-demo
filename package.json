@@ -1,0 +1,13 @@
+{
+  "name": "jiege-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.6.5",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "package.json": "^2.0.1",
+    "restify": "^7.2.0"
+  }
+}
